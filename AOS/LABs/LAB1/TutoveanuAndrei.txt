@@ -1,0 +1,100 @@
+hekp
+help
+ping google
+ping google.ro
+git --config
+git-- config
+git config
+git config --global user.name TutoveanuAndrei
+git config --global andrei.tutoveanu26@gmail.com
+git config --list
+git config --global user.email andrei.tutoveanu26@gmail.com
+git config --list
+git --help
+echo "#git-basics" >> README.md
+git init
+git.add README.md
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/TutoveanuAndrei/git-basics.git
+git push -u origin master
+history
+tree
+ls
+sudo ls
+git config
+sudo yum install git
+ls
+dir
+cls
+ls
+sudo ls
+git config --global user.name andrei.tutoveanu26@gmail.com
+git config user.name TutoveanuAndrei
+user.email andrei.tutoveanu26@gmail.com
+git config --global user.email andrei.tutoveanu26@gmail.com
+git config --list
+mkdir "AOS"
+cd AOS/
+mkdir "LABs"
+cd LABs/
+mkdir "LAB1"
+cd LAB1/
+ls
+git clone https://github.com/TutoveanuAndrei/git-basics
+ls
+nano > README.md
+ls
+rm README.md
+ls
+cd AOS
+LS
+ls
+cd LABs
+ls
+cd LAB1
+ls
+rm nano.save
+ls
+cd git-basics
+ls
+cd..
+cd ..
+ls
+cat > README.md
+ls -l README.md
+cat README.md
+git commit
+cat README.md
+git commit -a -m "README added"
+ls
+git add README.md
+ls
+ls -all
+cs AOS/
+cd AOS/
+ls
+git commit -a -m "README added"
+git push
+ls
+git push
+git branch -a
+git push -u origin master
+git pull
+ipconfig
+git branch-D myNewBranch
+git branch -D [myNewBranch]
+git checkout -b myNewBranch
+bit branch -a
+git push origin myNewBranch
+cat > newBranchFile.txt
+git commit -a
+git add newBranchFile.txt
+git commit -a
+ls
+git commit -a
+git push
+git pull
+ls
+ls -all
+history -w TutoveanuAndrei.txt
